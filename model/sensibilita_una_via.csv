@@ -1,0 +1,643 @@
+stato,voce,alternativa,K,L,s_dom,q_star_lambda_min,tocca_K
+SE,base,,163538,4441916,0.0368,0.3271,
+SE,Index DRG tariff,"118,184",161632,4441916,0.0364,0.3233,True
+SE,Index DRG tariff,"128,760",172208,4441916,0.0388,0.3444,True
+SE,Share revised at 10 y,14%,143485,4441916,0.0323,0.287,True
+SE,Share revised at 10 y,30%,170223,4441916,0.0383,0.3404,True
+SE,Revisions counted,reoperations,163538,4441916,0.0368,0.3271,True
+SE,Revisions counted,patients,147034,4441916,0.0331,0.2941,True
+SE,Revision cost,-50%,141814,4441916,0.0319,0.2836,True
+SE,Revision cost,+50%,185263,4441916,0.0417,0.3705,True
+SE,Time horizon,5 y,157186,2778813,0.0566,0.3144,True
+SE,Time horizon,lifetime,167442,4824554,0.0347,0.3349,True
+SE,Discount rate (common),0%,165530,4976576,0.0333,0.3311,True
+SE,Discount rate (common),5%,162415,4138231,0.0392,0.3248,True
+SE,Course after year 1,plateau,163538,2927704,0.0559,0.3271,False
+SE,Course after year 1,dementia mix,163538,4697111,0.0348,0.3271,False
+SE,mRS 3:4 at diagnosis,1:1,163538,4537212,0.036,0.3271,False
+SE,mRS 3:4 at diagnosis,1:2,163538,4627339,0.0353,0.3271,False
+SE,"Mortality HR, untreated",x1.13,163538,6346223,0.0258,0.3271,False
+SE,"Mortality HR, untreated",x5.83,163538,2448428,0.0668,0.3271,False
+SE,Hourly home-care cost,-25%,163538,3782204,0.0432,0.3271,False
+SE,Hourly home-care cost,+25%,163538,5101628,0.0321,0.3271,False
+SE,Daily residential cost,-25%,163538,3991149,0.041,0.3271,False
+SE,Daily residential cost,+25%,163538,4892684,0.0334,0.3271,False
+SE,Care volumes (Lekander),x0.5,163538,2220958,0.0736,0.3271,False
+SE,Care volumes (Lekander),x1.5,163538,6662875,0.0245,0.3271,False
+SE,Perspective,public,163538,4441916,0.0368,0.3271,False
+SE,Perspective,total,163538,4704826,0.0348,0.3271,False
+SE,Threshold (declared range),upper,163538,4441916,0.0368,0.1635,lambda
+DE,base,,11380,121653,0.0935,0.2098,
+DE,Index DRG tariff,"8,154",11233,121653,0.0923,0.2071,True
+DE,Index DRG tariff,"10,374",13453,121653,0.1106,0.248,True
+DE,Revision DRG,B18C,10607,121653,0.0872,0.1956,True
+DE,Revision DRG,B18B,11380,121653,0.0935,0.2098,True
+DE,Share revised at 10 y,14%,9959,121653,0.0819,0.1836,True
+DE,Share revised at 10 y,30%,11854,121653,0.0974,0.2186,True
+DE,Revisions counted,reoperations,11380,121653,0.0935,0.2098,True
+DE,Revisions counted,patients,10210,121653,0.0839,0.1882,True
+DE,Revision cost,-50%,9841,121653,0.0809,0.1814,True
+DE,Revision cost,+50%,12920,121653,0.1062,0.2382,True
+DE,Time horizon,5 y,10968,79406,0.1381,0.2022,True
+DE,Time horizon,lifetime,11600,129812,0.0894,0.2139,True
+DE,Discount rate (common),0%,11512,135624,0.0849,0.2122,True
+DE,Discount rate (common),5%,11306,113690,0.0994,0.2084,True
+DE,Course after year 1,plateau,11380,78387,0.1452,0.2098,False
+DE,Course after year 1,dementia mix,11380,123340,0.0923,0.2098,False
+DE,mRS 3:4 at diagnosis,1:1,11380,122209,0.0931,0.2098,False
+DE,mRS 3:4 at diagnosis,1:2,11380,122627,0.0928,0.2098,False
+DE,"Mortality HR, untreated",x1.13,11380,188249,0.0605,0.2098,False
+DE,"Mortality HR, untreated",x5.83,11380,61108,0.1862,0.2098,False
+DE,Hourly home-care cost,-25%,11380,121155,0.0939,0.2098,False
+DE,Hourly home-care cost,+25%,11380,122151,0.0932,0.2098,False
+DE,Daily residential cost,-25%,11380,110893,0.1026,0.2098,False
+DE,Daily residential cost,+25%,11380,132413,0.0859,0.2098,False
+DE,Care volumes (Lekander),x0.5,11380,95190,0.1196,0.2098,False
+DE,Care volumes (Lekander),x1.5,11380,144168,0.0789,0.2098,False
+DE,Perspective,public,11380,121653,0.0935,0.2098,False
+DE,Perspective,total,11380,279802,0.0407,0.2098,False
+DE,Threshold (declared range),upper,11380,121653,0.0935,0.0699,lambda
+FR,base,,7638,133978,0.057,0.1762,
+FR,Index DRG tariff,level 1,7638,133978,0.057,0.1762,True
+FR,Index DRG tariff,level 2,12040,133978,0.0899,0.2777,True
+FR,Share revised at 10 y,14%,7156,133978,0.0534,0.1651,True
+FR,Share revised at 10 y,30%,7798,133978,0.0582,0.1799,True
+FR,Revisions counted,reoperations,7638,133978,0.057,0.1762,True
+FR,Revisions counted,patients,7242,133978,0.0541,0.167,True
+FR,Revision cost,-50%,7116,133978,0.0531,0.1642,True
+FR,Revision cost,+50%,8160,133978,0.0609,0.1882,True
+FR,Time horizon,5 y,7478,80452,0.093,0.1725,True
+FR,Time horizon,lifetime,7751,149995,0.0517,0.1788,True
+FR,Discount rate (common),0%,7679,147836,0.0519,0.1771,True
+FR,Discount rate (common),5%,7603,122199,0.0622,0.1754,True
+FR,Course after year 1,plateau,7638,86560,0.0882,0.1762,False
+FR,Course after year 1,dementia mix,7638,140768,0.0543,0.1762,False
+FR,mRS 3:4 at diagnosis,1:1,7638,136642,0.0559,0.1762,False
+FR,mRS 3:4 at diagnosis,1:2,7638,139148,0.0549,0.1762,False
+FR,"Mortality HR, untreated",x1.13,7638,188235,0.0406,0.1762,False
+FR,"Mortality HR, untreated",x5.83,7638,75399,0.1013,0.1762,False
+FR,Hourly home-care cost,-25%,7638,114740,0.0666,0.1762,False
+FR,Hourly home-care cost,+25%,7638,153215,0.0499,0.1762,False
+FR,Daily residential cost,-25%,7638,119721,0.0638,0.1762,False
+FR,Daily residential cost,+25%,7638,148235,0.0515,0.1762,False
+FR,Care volumes (Lekander),x0.5,7638,66989,0.114,0.1762,False
+FR,Care volumes (Lekander),x1.5,7638,200967,0.038,0.1762,False
+FR,Perspective,public,7638,133978,0.057,0.1762,False
+FR,Perspective,total,7638,171760,0.0445,0.1762,False
+FR,Threshold (declared range),upper,7638,133978,0.057,0.0587,lambda
+ES,base,,15962,76860,0.2077,0.7981,
+ES,Index DRG tariff,SOI 1,12345,76860,0.1606,0.6173,True
+ES,Index DRG tariff,mean,15962,76860,0.2077,0.7981,True
+ES,Share revised at 10 y,14%,14002,76860,0.1822,0.7001,True
+ES,Share revised at 10 y,30%,16616,76860,0.2162,0.8308,True
+ES,Revisions counted,reoperations,15962,76860,0.2077,0.7981,True
+ES,Revisions counted,patients,14349,76860,0.1867,0.7174,True
+ES,Revision cost,-50%,13838,76860,0.18,0.6919,True
+ES,Revision cost,+50%,18087,76860,0.2353,0.9043,True
+ES,Time horizon,5 y,15334,47523,0.3227,0.7667,True
+ES,Time horizon,lifetime,16373,84818,0.193,0.8187,True
+ES,Discount rate (common),0%,16159,86220,0.1874,0.808,True
+ES,Discount rate (common),5%,15852,71552,0.2215,0.7926,True
+ES,Course after year 1,plateau,15962,51871,0.3077,0.7981,False
+ES,Course after year 1,dementia mix,15962,82140,0.1943,0.7981,False
+ES,mRS 3:4 at diagnosis,1:1,15962,78626,0.203,0.7981,False
+ES,mRS 3:4 at diagnosis,1:2,15962,80312,0.1988,0.7981,False
+ES,"Mortality HR, untreated",x1.13,15962,107246,0.1488,0.7981,False
+ES,"Mortality HR, untreated",x5.83,15962,44202,0.3611,0.7981,False
+ES,Hourly home-care cost,-25%,15962,64237,0.2485,0.7981,False
+ES,Hourly home-care cost,+25%,15962,89483,0.1784,0.7981,False
+ES,Daily residential cost,-25%,15962,70268,0.2272,0.7981,False
+ES,Daily residential cost,+25%,15962,83452,0.1913,0.7981,False
+ES,Care volumes (Lekander),x0.5,15962,38430,0.4154,0.7981,False
+ES,Care volumes (Lekander),x1.5,15962,115290,0.1385,0.7981,False
+ES,Perspective,public,15962,76860,0.2077,0.7981,False
+ES,Perspective,total,15962,98964,0.1613,0.7981,False
+ES,Threshold (declared range),upper,15962,76860,0.2077,0.6385,lambda
+PL,base,,40360,142050,0.2841,0.1649,
+PL,Index DRG tariff,1.00 zł/pt,20592,142050,0.145,0.0841,True
+PL,Index DRG tariff,1.96,40360,142050,0.2841,0.1649,True
+PL,Share revised at 10 y,14%,36694,142050,0.2583,0.1499,True
+PL,Share revised at 10 y,30%,41582,142050,0.2927,0.1698,True
+PL,Revisions counted,reoperations,40360,142050,0.2841,0.1649,True
+PL,Revisions counted,patients,37340,142050,0.2629,0.1525,True
+PL,Revision cost,-50%,36388,142050,0.2562,0.1486,True
+PL,Revision cost,+50%,44332,142050,0.3121,0.1811,True
+PL,Time horizon,5 y,39488,101190,0.3902,0.1613,True
+PL,Time horizon,lifetime,40742,148137,0.275,0.1664,True
+PL,Discount rate (common),0%,40863,167298,0.2443,0.1669,True
+PL,Discount rate (common),5%,40360,142050,0.2841,0.1649,True
+PL,Course after year 1,plateau,40360,95983,0.4205,0.1649,False
+PL,Course after year 1,dementia mix,40360,149619,0.2698,0.1649,False
+PL,mRS 3:4 at diagnosis,1:1,40360,145544,0.2773,0.1649,False
+PL,mRS 3:4 at diagnosis,1:2,40360,148851,0.2711,0.1649,False
+PL,"Mortality HR, untreated",x1.13,40360,230320,0.1752,0.1649,False
+PL,"Mortality HR, untreated",x5.83,40360,69010,0.5848,0.1649,False
+PL,Hourly home-care cost,-25%,40360,123237,0.3275,0.1649,False
+PL,Hourly home-care cost,+25%,40360,160864,0.2509,0.1649,False
+PL,Daily residential cost,-25%,40360,125351,0.322,0.1649,False
+PL,Daily residential cost,+25%,40360,158750,0.2542,0.1649,False
+PL,Care volumes (Lekander),x0.5,40360,71025,0.5683,0.1649,False
+PL,Care volumes (Lekander),x1.5,40360,213076,0.1894,0.1649,False
+EE,base,,7934,46687,0.1699,0.3967,
+EE,Index DRG tariff (payment rule),"4,654",6687,46687,0.1432,0.3344,True
+EE,Index DRG tariff (payment rule),"10,485",12518,46687,0.2681,0.6259,True
+EE,Home-care public share,0.840 (KOV),7934,46687,0.1699,0.3967,False
+EE,Home-care public share,0.885,7934,48565,0.1634,0.3967,False
+EE,Residential public share,0.466 (STAR list),7934,45042,0.1761,0.3967,False
+EE,Residential public share,0.546 (spend),7934,46687,0.1699,0.3967,False
+EE,Share revised at 10 y,14%,6996,46687,0.1498,0.3498,True
+EE,Share revised at 10 y,30%,8247,46687,0.1766,0.4123,True
+EE,Revisions counted,reoperations,7934,46687,0.1699,0.3967,True
+EE,Revisions counted,patients,7161,46687,0.1534,0.3581,True
+EE,Revision cost,-50%,6917,46687,0.1482,0.3459,True
+EE,Revision cost,+50%,8951,46687,0.1917,0.4475,True
+EE,Time horizon,5 y,7691,33184,0.2318,0.3846,True
+EE,Time horizon,lifetime,8054,49075,0.1641,0.4027,True
+EE,Discount rate (common),0%,8027,52294,0.1535,0.4014,True
+EE,Discount rate (common),5%,7900,44622,0.177,0.395,True
+EE,Course after year 1,plateau,7934,34324,0.2312,0.3967,False
+EE,Course after year 1,dementia mix,7934,50836,0.1561,0.3967,False
+EE,mRS 3:4 at diagnosis,1:1,7934,48168,0.1647,0.3967,False
+EE,mRS 3:4 at diagnosis,1:2,7934,49604,0.1599,0.3967,False
+EE,"Mortality HR, untreated",x1.13,7934,74036,0.1072,0.3967,False
+EE,"Mortality HR, untreated",x5.83,7934,23554,0.3368,0.3967,False
+EE,Hourly home-care cost,-25%,7934,37823,0.2098,0.3967,False
+EE,Hourly home-care cost,+25%,7934,55551,0.1428,0.3967,False
+EE,Daily residential cost,-25%,7934,43879,0.1808,0.3967,False
+EE,Daily residential cost,+25%,7934,49495,0.1603,0.3967,False
+EE,Care volumes (Lekander),x0.5,7934,23343,0.3399,0.3967,False
+EE,Care volumes (Lekander),x1.5,7934,70030,0.1133,0.3967,False
+EE,Perspective,public,7934,46687,0.1699,0.3967,False
+EE,Perspective,total,7934,62792,0.1264,0.3967,False
+EE,Threshold (declared range),upper,7934,46687,0.1699,0.1984,lambda
+NO,base,,308187,5187845,0.0594,1.1207,
+NO,Revision DRG,443 (T85.0),261672,5187845,0.0504,0.9515,True
+NO,Revision DRG,1D,308187,5187845,0.0594,1.1207,True
+NO,Hourly home-care cost (source),406.9,308187,3873491,0.0796,1.1207,False
+NO,Hourly home-care cost (source),"1,100.1",308187,5838514,0.0528,1.1207,False
+NO,Daily residential cost (source),"5,017.6",308187,4929134,0.0625,1.1207,False
+NO,Daily residential cost (source),"5,545",308187,5187845,0.0594,1.1207,False
+NO,Share revised at 10 y,14%,270920,5187845,0.0522,0.9852,True
+NO,Share revised at 10 y,30%,320609,5187845,0.0618,1.1659,True
+NO,Revisions counted,reoperations,308187,5187845,0.0594,1.1207,True
+NO,Revisions counted,patients,277507,5187845,0.0535,1.0091,True
+NO,Revision cost,-50%,267814,5187845,0.0516,0.9739,True
+NO,Revision cost,+50%,348559,5187845,0.0672,1.2675,True
+NO,Time horizon,5 y,297245,3295064,0.0902,1.0809,True
+NO,Time horizon,lifetime,314255,5577887,0.0563,1.1427,True
+NO,Discount rate (common),0%,312934,6027390,0.0519,1.1379,True
+NO,Discount rate (common),5%,307183,5009076,0.0613,1.117,True
+NO,Course after year 1,plateau,308187,3268965,0.0943,1.1207,False
+NO,Course after year 1,dementia mix,308187,5378102,0.0573,1.1207,False
+NO,mRS 3:4 at diagnosis,1:1,308187,5284044,0.0583,1.1207,False
+NO,mRS 3:4 at diagnosis,1:2,308187,5373178,0.0574,1.1207,False
+NO,"Mortality HR, untreated",x1.13,308187,7583476,0.0406,1.1207,False
+NO,"Mortality HR, untreated",x5.83,308187,2772934,0.1111,1.1207,False
+NO,Hourly home-care cost,-25%,308187,4570895,0.0674,1.1207,False
+NO,Hourly home-care cost,+25%,308187,5804795,0.0531,1.1207,False
+NO,Daily residential cost,-25%,308187,4507834,0.0684,1.1207,False
+NO,Daily residential cost,+25%,308187,5867857,0.0525,1.1207,False
+NO,Care volumes (Lekander),x0.5,308187,2593923,0.1188,1.1207,False
+NO,Care volumes (Lekander),x1.5,308187,7781768,0.0396,1.1207,False
+NO,Perspective,public,308187,5187845,0.0594,1.1207,False
+NO,Perspective,total,308187,5566065,0.0554,1.1207,False
+NO,Threshold (declared range),upper,308187,5187845,0.0594,0.6251,lambda
+IE,base,,20724,169907,0.122,1.0362,
+IE,Index DRG tariff (complexity),B02C,20724,169907,0.122,1.0362,True
+IE,Index DRG tariff (complexity),B02A,64146,169907,0.3775,3.2073,True
+IE,Hourly home-care cost (source),28.10,20724,156609,0.1323,1.0362,False
+IE,Hourly home-care cost (source),32.49,20724,169218,0.1225,1.0362,False
+IE,Share revised at 10 y,14%,18813,169907,0.1107,0.9407,True
+IE,Share revised at 10 y,30%,21360,169907,0.1257,1.068,True
+IE,Revisions counted,reoperations,20724,169907,0.122,1.0362,True
+IE,Revisions counted,patients,19151,169907,0.1127,0.9576,True
+IE,Revision cost,-50%,18654,169907,0.1098,0.9327,True
+IE,Revision cost,+50%,22793,169907,0.1341,1.1396,True
+IE,Time horizon,5 y,20162,109364,0.1844,1.0081,True
+IE,Time horizon,lifetime,21023,181306,0.116,1.0511,True
+IE,Discount rate (common),0%,20967,196921,0.1065,1.0484,True
+IE,Discount rate (common),5%,20672,164149,0.1259,1.0336,True
+IE,Course after year 1,plateau,20724,111152,0.1864,1.0362,False
+IE,Course after year 1,dementia mix,20724,178672,0.116,1.0362,False
+IE,mRS 3:4 at diagnosis,1:1,20724,173505,0.1194,1.0362,False
+IE,mRS 3:4 at diagnosis,1:2,20724,176893,0.1172,1.0362,False
+IE,"Mortality HR, untreated",x1.13,20724,246072,0.0842,1.0362,False
+IE,"Mortality HR, untreated",x5.83,20724,92596,0.2238,1.0362,False
+IE,Hourly home-care cost,-25%,20724,146406,0.1415,1.0362,False
+IE,Hourly home-care cost,+25%,20724,193408,0.1071,1.0362,False
+IE,Daily residential cost,-25%,20724,150931,0.1373,1.0362,False
+IE,Daily residential cost,+25%,20724,188883,0.1097,1.0362,False
+IE,Care volumes (Lekander),x0.5,20724,84953,0.2439,1.0362,False
+IE,Care volumes (Lekander),x1.5,20724,254860,0.0813,1.0362,False
+IE,Perspective,public,20724,169907,0.122,1.0362,False
+IE,Perspective,total,20724,202485,0.1023,1.0362,False
+IE,Threshold (declared range),upper,20724,169907,0.122,0.4605,lambda
+UK,base,,10920,69369,0.1574,0.4368,
+UK,Index HRG tariff,AA54C,5383,69369,0.0776,0.2153,True
+UK,Index HRG tariff,AA52D non-elective,13244,69369,0.1909,0.5297,True
+UK,Revision HRG,AA54C,8959,69369,0.1291,0.3584,True
+UK,Revision HRG,AA51D,11041,69369,0.1592,0.4416,True
+UK,Hourly home-care cost (source),ASC-FR,10920,69369,0.1574,0.4368,False
+UK,Hourly home-care cost (source),PSSRU,10920,79518,0.1373,0.4368,False
+UK,Residential cost without FNC,without FNC,10920,66382,0.1645,0.4368,False
+UK,Residential cost without FNC,with FNC,10920,69369,0.1574,0.4368,False
+UK,Public shares (self-funders),whole population,10920,69369,0.1574,0.4368,False
+UK,Public shares (self-funders),council-funded only,10920,114961,0.095,0.4368,False
+UK,Share revised at 10 y,14%,9602,69369,0.1384,0.3841,True
+UK,Share revised at 10 y,30%,11359,69369,0.1637,0.4544,True
+UK,Revisions counted,reoperations,10920,69369,0.1574,0.4368,True
+UK,Revisions counted,patients,9835,69369,0.1418,0.3934,True
+UK,Revision cost,-50%,9492,69369,0.1368,0.3797,True
+UK,Revision cost,+50%,12348,69369,0.178,0.4939,True
+UK,Time horizon,5 y,10538,45533,0.2314,0.4215,True
+UK,Time horizon,lifetime,11123,73772,0.1508,0.4449,True
+UK,Discount rate (common),0%,11063,78701,0.1406,0.4425,True
+UK,Discount rate (common),5%,10868,65950,0.1648,0.4347,True
+UK,Course after year 1,plateau,10920,45346,0.2408,0.4368,False
+UK,Course after year 1,dementia mix,10920,72821,0.15,0.4368,False
+UK,mRS 3:4 at diagnosis,1:1,10920,70846,0.1541,0.4368,False
+UK,mRS 3:4 at diagnosis,1:2,10920,72233,0.1512,0.4368,False
+UK,"Mortality HR, untreated",x1.13,10920,104347,0.1046,0.4368,False
+UK,"Mortality HR, untreated",x5.83,10920,36184,0.3018,0.4368,False
+UK,Hourly home-care cost,-25%,10920,60094,0.1817,0.4368,False
+UK,Hourly home-care cost,+25%,10920,78645,0.1388,0.4368,False
+UK,Daily residential cost,-25%,10920,61303,0.1781,0.4368,False
+UK,Daily residential cost,+25%,10920,77436,0.141,0.4368,False
+UK,Care volumes (Lekander),x0.5,10920,34685,0.3148,0.4368,False
+UK,Care volumes (Lekander),x1.5,10920,104054,0.1049,0.4368,False
+UK,Perspective,public,10920,69369,0.1574,0.4368,False
+UK,Perspective,total,10920,153874,0.071,0.4368,False
+UK,Threshold (declared range),upper,10920,69369,0.1574,0.312,lambda
+DK,base,,182422,3014342,0.0605,0.3514,
+DK,Hourly home-care cost (source),656.4 (2024),182422,2816264,0.0648,0.3514,False
+DK,Hourly home-care cost (source),846.2 (2024),182422,3341108,0.0546,0.3514,False
+DK,Daily residential cost (source),"2,000.0 (2025)",182422,2990911,0.061,0.3514,False
+DK,Daily residential cost (source),"2,189.9 (2024)",182422,3177724,0.0574,0.3514,False
+DK,Share revised at 10 y,14%,160419,3014342,0.0532,0.309,True
+DK,Share revised at 10 y,30%,189756,3014342,0.063,0.3656,True
+DK,Revisions counted,reoperations,182422,3014342,0.0605,0.3514,True
+DK,Revisions counted,patients,164308,3014342,0.0545,0.3165,True
+DK,Revision cost,-50%,158586,3014342,0.0526,0.3055,True
+DK,Revision cost,+50%,206258,3014342,0.0684,0.3974,True
+DK,Time horizon,5 y,176066,2020784,0.0871,0.3392,True
+DK,Time horizon,lifetime,185809,3197526,0.0581,0.358,True
+DK,Discount rate (common),0%,184812,3408248,0.0542,0.356,True
+DK,Discount rate (common),5%,181554,2869857,0.0633,0.3498,True
+DK,Course after year 1,plateau,182422,2094304,0.0871,0.3514,False
+DK,Course after year 1,dementia mix,182422,3236966,0.0564,0.3514,False
+DK,mRS 3:4 at diagnosis,1:1,182422,3092655,0.059,0.3514,False
+DK,mRS 3:4 at diagnosis,1:2,182422,3167703,0.0576,0.3514,False
+DK,"Mortality HR, untreated",x1.13,182422,4501765,0.0405,0.3514,False
+DK,"Mortality HR, untreated",x5.83,182422,1593851,0.1145,0.3514,False
+DK,Hourly home-care cost,-25%,182422,2511045,0.0726,0.3514,False
+DK,Hourly home-care cost,+25%,182422,3517639,0.0519,0.3514,False
+DK,Daily residential cost,-25%,182422,2764053,0.066,0.3514,False
+DK,Daily residential cost,+25%,182422,3264631,0.0559,0.3514,False
+DK,Care volumes (Lekander),x0.5,182422,1507171,0.121,0.3514,False
+DK,Care volumes (Lekander),x1.5,182422,4521513,0.0403,0.3514,False
+DK,Perspective,public,182422,3014342,0.0605,0.3514,False
+DK,Perspective,total,182422,3140533,0.0581,0.3514,False
+DK,Threshold (declared range),upper,182422,3014342,0.0605,0.1171,lambda
+NL,base,,14124,354900,0.0398,0.7062,
+NL,Index DBC tariff,"8,285",11777,354900,0.0332,0.5888,True
+NL,Index DBC tariff,"12,312",15804,354900,0.0445,0.7902,True
+NL,Revision DBC tariff,"6,260",12861,354900,0.0362,0.643,True
+NL,Revision DBC tariff,"11,491",14724,354900,0.0415,0.7362,True
+NL,Home-care public share,0.983 (Wlz),14124,354900,0.0398,0.7062,False
+NL,Home-care public share,1.0 (Zvw),14124,358054,0.0394,0.7062,False
+NL,Share revised at 10 y,14%,12512,354900,0.0353,0.6256,True
+NL,Share revised at 10 y,30%,14661,354900,0.0413,0.733,True
+NL,Revisions counted,reoperations,14124,354900,0.0398,0.7062,True
+NL,Revisions counted,patients,12797,354900,0.0361,0.6398,True
+NL,Revision cost,-50%,12378,354900,0.0349,0.6189,True
+NL,Revision cost,+50%,15870,354900,0.0447,0.7935,True
+NL,Time horizon,5 y,13647,231987,0.0588,0.6824,True
+NL,Time horizon,lifetime,14372,376558,0.0382,0.7186,True
+NL,Discount rate (common),0%,14275,395626,0.0361,0.7138,True
+NL,Discount rate (common),5%,14038,331675,0.0423,0.7019,True
+NL,Course after year 1,plateau,14124,230492,0.0613,0.7062,False
+NL,Course after year 1,dementia mix,14124,371801,0.038,0.7062,False
+NL,mRS 3:4 at diagnosis,1:1,14124,362272,0.039,0.7062,False
+NL,mRS 3:4 at diagnosis,1:2,14124,369183,0.0383,0.7062,False
+NL,"Mortality HR, untreated",x1.13,14124,538285,0.0262,0.7062,False
+NL,"Mortality HR, untreated",x5.83,14124,183023,0.0772,0.7062,False
+NL,Hourly home-care cost,-25%,14124,308427,0.0458,0.7062,False
+NL,Hourly home-care cost,+25%,14124,401373,0.0352,0.7062,False
+NL,Daily residential cost,-25%,14124,312648,0.0452,0.7062,False
+NL,Daily residential cost,+25%,14124,397153,0.0356,0.7062,False
+NL,Care volumes (Lekander),x0.5,14124,177450,0.0796,0.7062,False
+NL,Care volumes (Lekander),x1.5,14124,532351,0.0265,0.7062,False
+NL,Perspective,public,14124,354900,0.0398,0.7062,False
+NL,Perspective,total,14124,375776,0.0376,0.7062,False
+NL,Threshold (declared range),upper,14124,354900,0.0398,0.1765,lambda
+PT,base,,5043,43434,0.1161,0.1766,
+PT,Index DRG tariff (SOI),SOI 1,5043,43434,0.1161,0.1766,True
+PT,Index DRG tariff (SOI),SOI 4,24749,43434,0.5698,0.8666,True
+PT,Hours per home-care user,+50% (6.95/h),5043,33178,0.152,0.1766,False
+PT,Hours per home-care user,-50% (20.85/h),5043,74203,0.068,0.1766,False
+PT,Residential public share (dependency supplement),0.409,5043,43434,0.1161,0.1766,False
+PT,Residential public share (dependency supplement),0.500,5043,46239,0.1091,0.1766,False
+PT,Residential setting (RNCCI),ERPI,5043,43434,0.1161,0.1766,False
+PT,Residential setting (RNCCI),RNCCI ULDM,5043,54323,0.0928,0.1766,False
+PT,Share revised at 10 y,14%,4432,43434,0.102,0.1552,True
+PT,Share revised at 10 y,30%,5247,43434,0.1208,0.1837,True
+PT,Revisions counted,reoperations,5043,43434,0.1161,0.1766,True
+PT,Revisions counted,patients,4540,43434,0.1045,0.159,True
+PT,Revision cost,-50%,4381,43434,0.1009,0.1534,True
+PT,Revision cost,+50%,5706,43434,0.1314,0.1998,True
+PT,Time horizon,5 y,4861,28256,0.172,0.1702,True
+PT,Time horizon,lifetime,5145,46585,0.1104,0.1802,True
+PT,Discount rate (common),0%,5122,50244,0.1019,0.1793,True
+PT,Discount rate (common),5%,5027,41983,0.1197,0.176,True
+PT,Course after year 1,plateau,5043,30363,0.1661,0.1766,False
+PT,Course after year 1,dementia mix,5043,46936,0.1074,0.1766,False
+PT,mRS 3:4 at diagnosis,1:1,5043,44562,0.1132,0.1766,False
+PT,mRS 3:4 at diagnosis,1:2,5043,45647,0.1105,0.1766,False
+PT,"Mortality HR, untreated",x1.13,5043,61230,0.0824,0.1766,False
+PT,"Mortality HR, untreated",x5.83,5043,24785,0.2035,0.1766,False
+PT,Hourly home-care cost,-25%,5043,35742,0.1411,0.1766,False
+PT,Hourly home-care cost,+25%,5043,51127,0.0986,0.1766,False
+PT,Daily residential cost,-25%,5043,40268,0.1252,0.1766,False
+PT,Daily residential cost,+25%,5043,46601,0.1082,0.1766,False
+PT,Care volumes (Lekander),x0.5,5043,21717,0.2322,0.1766,False
+PT,Care volumes (Lekander),x1.5,5043,65152,0.0774,0.1766,False
+PT,Threshold (declared range),upper,5043,43434,0.1161,0.0589,lambda
+LV,base,,4609,21906,0.2104,0.0652,
+LV,Index DRG tariff and revision,"3,285",4382,21906,0.2,0.062,True
+LV,Index DRG tariff and revision,"3,598",4800,21906,0.2191,0.0679,True
+LV,Public hourly amount,8.12,4609,21829,0.2111,0.0652,False
+LV,Public hourly amount,8.20,4609,21990,0.2096,0.0652,False
+LV,Residential public share,0.408,4609,21906,0.2104,0.0652,False
+LV,Residential public share,0.427,4609,22165,0.2079,0.0652,False
+LV,Daily residential cost (spend / days),36.91,4609,21866,0.2108,0.0652,False
+LV,Daily residential cost (spend / days),37.18,4609,21906,0.2104,0.0652,False
+LV,Share revised at 10 y,14%,4076,21906,0.1861,0.0577,True
+LV,Share revised at 10 y,30%,4786,21906,0.2185,0.0677,True
+LV,Revisions counted,reoperations,4609,21906,0.2104,0.0652,True
+LV,Revisions counted,patients,4170,21906,0.1904,0.059,True
+LV,Revision cost,-50%,4032,21906,0.184,0.057,True
+LV,Revision cost,+50%,5186,21906,0.2367,0.0734,True
+LV,Time horizon,5 y,4492,16657,0.2697,0.0636,True
+LV,Time horizon,lifetime,4654,22557,0.2063,0.0658,True
+LV,Discount rate (common),0%,4677,25374,0.1843,0.0662,True
+LV,Discount rate (common),5%,4609,21906,0.2104,0.0652,True
+LV,Course after year 1,plateau,4609,16440,0.2803,0.0652,False
+LV,Course after year 1,dementia mix,4609,23810,0.1936,0.0652,False
+LV,mRS 3:4 at diagnosis,1:1,4609,22666,0.2033,0.0652,False
+LV,mRS 3:4 at diagnosis,1:2,4609,23402,0.1969,0.0652,False
+LV,"Mortality HR, untreated",x1.13,4609,35796,0.1287,0.0652,False
+LV,"Mortality HR, untreated",x5.83,4609,10962,0.4204,0.0652,False
+LV,Hourly home-care cost,-25%,4609,17798,0.259,0.0652,False
+LV,Hourly home-care cost,+25%,4609,26014,0.1772,0.0652,False
+LV,Daily residential cost,-25%,4609,20538,0.2244,0.0652,False
+LV,Daily residential cost,+25%,4609,23274,0.198,0.0652,False
+LV,Care volumes (Lekander),x0.5,4609,10953,0.4208,0.0652,False
+LV,Care volumes (Lekander),x1.5,4609,32859,0.1403,0.0652,False
+LV,Threshold (alternative),3 x GDP pc 2024,4609,21906,0.2104,0.0698,lambda
+CZ,base,,289168,2196948,0.1316,0.241,
+CZ,Hourly home-care cost (method),631.5 (staff),289168,1873535,0.1543,0.241,False
+CZ,Hourly home-care cost (method),800.4 (CSU),289168,2196948,0.1316,0.241,False
+CZ,Residential public share (care allowance),private (0.512),289168,2005504,0.1442,0.241,False
+CZ,Residential public share (care allowance),public (0.720),289168,2196948,0.1316,0.241,False
+CZ,Share revised at 10 y,14%,254678,2196948,0.1159,0.2122,True
+CZ,Share revised at 10 y,30%,300665,2196948,0.1369,0.2506,True
+CZ,Revisions counted,reoperations,289168,2196948,0.1316,0.241,True
+CZ,Revisions counted,patients,260768,2196948,0.1187,0.2173,True
+CZ,Revision cost,-50%,251804,2196948,0.1146,0.2098,True
+CZ,Revision cost,+50%,326533,2196948,0.1486,0.2721,True
+CZ,Time horizon,5 y,279878,1550910,0.1805,0.2332,True
+CZ,Time horizon,lifetime,293602,2296220,0.1279,0.2447,True
+CZ,Discount rate (common),0%,292169,2423682,0.1205,0.2435,True
+CZ,Discount rate (common),5%,287469,2066874,0.1391,0.2396,True
+CZ,Course after year 1,plateau,289168,1572546,0.1839,0.241,False
+CZ,Course after year 1,dementia mix,289168,2372116,0.1219,0.241,False
+CZ,mRS 3:4 at diagnosis,1:1,289168,2260917,0.1279,0.241,False
+CZ,mRS 3:4 at diagnosis,1:2,289168,2322532,0.1245,0.241,False
+CZ,"Mortality HR, untreated",x1.13,289168,3484286,0.083,0.241,False
+CZ,"Mortality HR, untreated",x5.83,289168,1109497,0.2606,0.241,False
+CZ,Hourly home-care cost,-25%,289168,1813742,0.1594,0.241,False
+CZ,Hourly home-care cost,+25%,289168,2580154,0.1121,0.241,False
+CZ,Daily residential cost,-25%,289168,2030917,0.1424,0.241,False
+CZ,Daily residential cost,+25%,289168,2362979,0.1224,0.241,False
+CZ,Care volumes (Lekander),x0.5,289168,1098474,0.2632,0.241,False
+CZ,Care volumes (Lekander),x1.5,289168,3295423,0.0877,0.241,False
+CZ,Perspective,public,289168,2196948,0.1316,0.241,False
+CZ,Perspective,total,289168,2853437,0.1013,0.241,False
+SK,base,,9787,31644,0.3093,0.1921,
+SK,Index DRG tariff and revision (base rate),group 1,8870,31644,0.2803,0.1741,True
+SK,Index DRG tariff and revision (base rate),group 4,10173,31644,0.3215,0.1997,True
+SK,Residential public share,0.588,9787,30830,0.3174,0.1921,False
+SK,Residential public share,0.632,9787,31644,0.3093,0.1921,False
+SK,Share revised at 10 y,14%,8986,31644,0.284,0.1764,True
+SK,Share revised at 10 y,30%,10053,31644,0.3177,0.1974,True
+SK,Revisions counted,reoperations,9787,31644,0.3093,0.1921,True
+SK,Revisions counted,patients,9127,31644,0.2884,0.1792,True
+SK,Revision cost,-50%,8919,31644,0.2819,0.1751,True
+SK,Revision cost,+50%,10654,31644,0.3367,0.2091,True
+SK,Time horizon,5 y,9603,23389,0.4106,0.1885,True
+SK,Time horizon,lifetime,9858,32591,0.3025,0.1935,True
+SK,Discount rate (common),0%,9893,36932,0.2679,0.1942,True
+SK,Discount rate (common),5%,9787,31644,0.3093,0.1921,True
+SK,Course after year 1,plateau,9787,22517,0.4346,0.1921,False
+SK,Course after year 1,dementia mix,9787,33873,0.2889,0.1921,False
+SK,mRS 3:4 at diagnosis,1:1,9787,32570,0.3005,0.1921,False
+SK,mRS 3:4 at diagnosis,1:2,9787,33458,0.2925,0.1921,False
+SK,"Mortality HR, untreated",x1.13,9787,51387,0.1904,0.1921,False
+SK,"Mortality HR, untreated",x5.83,9787,15749,0.6214,0.1921,False
+SK,Hourly home-care cost,-25%,9787,26645,0.3673,0.1921,False
+SK,Hourly home-care cost,+25%,9787,36643,0.2671,0.1921,False
+SK,Daily residential cost,-25%,9787,28732,0.3406,0.1921,False
+SK,Daily residential cost,+25%,9787,34556,0.2832,0.1921,False
+SK,Care volumes (Lekander),x0.5,9787,15822,0.6185,0.1921,False
+SK,Care volumes (Lekander),x1.5,9787,47466,0.2062,0.1921,False
+SK,Perspective,public,9787,31644,0.3093,0.1921,False
+SK,Perspective,total,9787,42073,0.2326,0.1921,False
+SK,Threshold (declared range),upper,9787,31644,0.3093,0.1281,lambda
+BG,base,,3193,31114,0.1026,0.1762,
+BG,Revision without valve,without,3007,31114,0.0966,0.1659,True
+BG,Revision without valve,with valve,3193,31114,0.1026,0.1762,True
+BG,Valve at full price,"3,000 lv",4175,31114,0.1342,0.2304,True
+BG,Valve at full price,"4,500 lv",4942,31114,0.1588,0.2727,True
+BG,Hours per home-care user,+50%,3193,24548,0.1301,0.1762,False
+BG,Hours per home-care user,-50%,3193,50811,0.0628,0.1762,False
+BG,Share revised at 10 y,14%,2821,31114,0.0907,0.1557,True
+BG,Share revised at 10 y,30%,3317,31114,0.1066,0.183,True
+BG,Revisions counted,reoperations,3193,31114,0.1026,0.1762,True
+BG,Revisions counted,patients,2887,31114,0.0928,0.1593,True
+BG,Revision cost,-50%,2790,31114,0.0897,0.154,True
+BG,Revision cost,+50%,3596,31114,0.1156,0.1984,True
+BG,Time horizon,5 y,3108,23501,0.1322,0.1715,True
+BG,Time horizon,lifetime,3225,31883,0.1011,0.178,True
+BG,Discount rate (common),0%,3226,34513,0.0935,0.1781,True
+BG,Discount rate (common),5%,3181,29851,0.1066,0.1755,True
+BG,Course after year 1,plateau,3193,22365,0.1428,0.1762,False
+BG,Course after year 1,dementia mix,3193,33328,0.0958,0.1762,False
+BG,mRS 3:4 at diagnosis,1:1,3193,32062,0.0996,0.1762,False
+BG,mRS 3:4 at diagnosis,1:2,3193,32974,0.0968,0.1762,False
+BG,"Mortality HR, untreated",x1.13,3193,53618,0.0595,0.1762,False
+BG,"Mortality HR, untreated",x5.83,3193,14644,0.218,0.1762,False
+BG,Hourly home-care cost,-25%,3193,26189,0.1219,0.1762,False
+BG,Hourly home-care cost,+25%,3193,36038,0.0886,0.1762,False
+BG,Daily residential cost,-25%,3193,28260,0.113,0.1762,False
+BG,Daily residential cost,+25%,3193,33968,0.094,0.1762,False
+BG,Care volumes (Lekander),x0.5,3193,15557,0.2052,0.1762,False
+BG,Care volumes (Lekander),x1.5,3193,46670,0.0684,0.1762,False
+BG,Threshold (declared range),upper,3193,31114,0.1026,0.0587,lambda
+CH,base,,23402,443707,0.0527,0.2454,
+CH,Base rate (tariff and revision),"9,940",22051,443707,0.0497,0.2312,True
+CH,Base rate (tariff and revision),"11,267",24994,443707,0.0563,0.2621,True
+CH,Revision DRG,B09D,22424,443707,0.0505,0.2351,True
+CH,Revision DRG,B09C,23402,443707,0.0527,0.2454,True
+CH,Hourly home-care cost (source),109.89,23402,424957,0.0551,0.2454,False
+CH,Hourly home-care cost (source),120.75,23402,457854,0.0511,0.2454,False
+CH,Residential public share (EL as public),0.397,23402,443707,0.0527,0.2454,False
+CH,Residential public share (EL as public),0.602,23402,491257,0.0476,0.2454,False
+CH,Share revised at 10 y,14%,20523,443707,0.0463,0.2152,True
+CH,Share revised at 10 y,30%,24362,443707,0.0549,0.2554,True
+CH,Revisions counted,reoperations,23402,443707,0.0527,0.2454,True
+CH,Revisions counted,patients,21033,443707,0.0474,0.2205,True
+CH,Revision cost,-50%,20283,443707,0.0457,0.2127,True
+CH,Revision cost,+50%,26521,443707,0.0598,0.2781,True
+CH,Time horizon,5 y,22471,281597,0.0798,0.2356,True
+CH,Time horizon,lifetime,24006,483671,0.0496,0.2517,True
+CH,Discount rate (common),0%,23693,496135,0.0478,0.2484,True
+CH,Discount rate (common),5%,23238,413924,0.0561,0.2436,True
+CH,Course after year 1,plateau,23402,318499,0.0735,0.2454,False
+CH,Course after year 1,dementia mix,23402,486786,0.0481,0.2454,False
+CH,mRS 3:4 at diagnosis,1:1,23402,455879,0.0513,0.2454,False
+CH,mRS 3:4 at diagnosis,1:2,23402,467683,0.05,0.2454,False
+CH,"Mortality HR, untreated",x1.13,23402,614564,0.0381,0.2454,False
+CH,"Mortality HR, untreated",x5.83,23402,255797,0.0915,0.2454,False
+CH,Hourly home-care cost,-25%,23402,355800,0.0658,0.2454,False
+CH,Hourly home-care cost,+25%,23402,531615,0.044,0.2454,False
+CH,Daily residential cost,-25%,23402,420688,0.0556,0.2454,False
+CH,Daily residential cost,+25%,23402,466727,0.0501,0.2454,False
+CH,Care volumes (Lekander),x0.5,23402,221854,0.1055,0.2454,False
+CH,Care volumes (Lekander),x1.5,23402,665561,0.0352,0.2454,False
+CH,Perspective,public,23402,443707,0.0527,0.2454,False
+CH,Perspective,total,23402,600750,0.039,0.2454,False
+CH,Threshold (declared range),upper,23402,443707,0.0527,0.0818,lambda
+AT,base,,31395,201546,0.1558,0.5576,
+AT,LKF point value,1.61,28081,201546,0.1393,0.4988,True
+AT,LKF point value,2.41,42035,201546,0.2086,0.7466,True
+AT,"LKF point, national derivation",1.76,30705,201546,0.1523,0.5454,True
+AT,"LKF point, national derivation",1.80,31395,201546,0.1558,0.5576,True
+AT,Share revised at 10 y,14%,29038,201546,0.1441,0.5158,True
+AT,Share revised at 10 y,30%,32181,201546,0.1597,0.5716,True
+AT,Revisions counted,reoperations,31395,201546,0.1558,0.5576,True
+AT,Revisions counted,patients,29455,201546,0.1461,0.5232,True
+AT,Revision cost,-50%,28841,201546,0.1431,0.5123,True
+AT,Revision cost,+50%,33949,201546,0.1684,0.603,True
+AT,Time horizon,5 y,30691,132688,0.2313,0.5451,True
+AT,Time horizon,lifetime,31795,215590,0.1475,0.5647,True
+AT,Discount rate (common),0%,31618,224386,0.1409,0.5616,True
+AT,Discount rate (common),5%,31269,188528,0.1659,0.5554,True
+AT,Course after year 1,plateau,31395,139536,0.225,0.5576,False
+AT,Course after year 1,dementia mix,31395,216374,0.1451,0.5576,False
+AT,mRS 3:4 at diagnosis,1:1,31395,206702,0.1519,0.5576,False
+AT,mRS 3:4 at diagnosis,1:2,31395,211644,0.1483,0.5576,False
+AT,"Mortality HR, untreated",x1.13,31395,300792,0.1044,0.5576,False
+AT,"Mortality HR, untreated",x5.83,31395,106170,0.2957,0.5576,False
+AT,Hourly home-care cost,-25%,31395,167691,0.1872,0.5576,False
+AT,Hourly home-care cost,+25%,31395,235402,0.1334,0.5576,False
+AT,Daily residential cost,-25%,31395,185016,0.1697,0.5576,False
+AT,Daily residential cost,+25%,31395,218077,0.144,0.5576,False
+AT,Care volumes (Lekander),x0.5,31395,100773,0.3115,0.5576,False
+AT,Care volumes (Lekander),x1.5,31395,302320,0.1038,0.5576,False
+AT,Threshold (declared range),upper,31395,201546,0.1558,0.1859,lambda
+FI,base,,14259,394689,0.0361,0.2859,
+FI,Index tariff (KYS list),"7,700",10452,394689,0.0265,0.2096,True
+FI,Index tariff (KYS list),"10,505",14259,394689,0.0361,0.2859,True
+FI,Hourly home-care cost (source),123.2,14259,373733,0.0382,0.2859,False
+FI,Hourly home-care cost (source),138.9,14259,410327,0.0347,0.2859,False
+FI,Public shares (2024),2024,14259,393419,0.0362,0.2859,False
+FI,Public shares (2024),2025,14259,394689,0.0361,0.2859,False
+FI,Share revised at 10 y,14%,12526,394689,0.0317,0.2512,True
+FI,Share revised at 10 y,30%,14836,394689,0.0376,0.2975,True
+FI,Revisions counted,reoperations,14259,394689,0.0361,0.2859,True
+FI,Revisions counted,patients,12833,394689,0.0325,0.2573,True
+FI,Revision cost,-50%,12382,394689,0.0314,0.2483,True
+FI,Revision cost,+50%,16136,394689,0.0409,0.3236,True
+FI,Time horizon,5 y,13736,262748,0.0523,0.2754,True
+FI,Time horizon,lifetime,14554,421070,0.0346,0.2918,True
+FI,Discount rate (common),0%,14424,438667,0.0329,0.2892,True
+FI,Discount rate (common),5%,14166,369602,0.0383,0.284,True
+FI,Course after year 1,plateau,14259,285962,0.0499,0.2859,False
+FI,Course after year 1,dementia mix,14259,431944,0.033,0.2859,False
+FI,mRS 3:4 at diagnosis,1:1,14259,406139,0.0351,0.2859,False
+FI,mRS 3:4 at diagnosis,1:2,14259,417236,0.0342,0.2859,False
+FI,"Mortality HR, untreated",x1.13,14259,576497,0.0247,0.2859,False
+FI,"Mortality HR, untreated",x5.83,14259,215533,0.0662,0.2859,False
+FI,Hourly home-care cost,-25%,14259,317660,0.0449,0.2859,False
+FI,Hourly home-care cost,+25%,14259,471718,0.0302,0.2859,False
+FI,Daily residential cost,-25%,14259,373046,0.0382,0.2859,False
+FI,Daily residential cost,+25%,14259,416332,0.0342,0.2859,False
+FI,Care volumes (Lekander),x0.5,14259,197344,0.0723,0.2859,False
+FI,Care volumes (Lekander),x1.5,14259,592033,0.0241,0.2859,False
+FI,Perspective,public,14259,394689,0.0361,0.2859,False
+FI,Perspective,total,14259,486642,0.0293,0.2859,False
+FI,Threshold (declared range),upper,14259,394689,0.0361,0.0953,lambda
+LT,base,,6095,42741,0.1426,0.2069,
+LT,Insertion DRG,B07B,2489,42741,0.0582,0.0845,True
+LT,Insertion DRG,B02C,6095,42741,0.1426,0.2069,True
+LT,Home-care public share,0.8,6095,37357,0.1631,0.2069,False
+LT,Home-care public share,1.0,6095,42741,0.1426,0.2069,False
+LT,Residential cost and share (other pair),57.55 / 0.668,6095,42741,0.1426,0.2069,False
+LT,Residential cost and share (other pair),61.35 / 0.627,6095,42741,0.1426,0.2069,False
+LT,Share revised at 10 y,14%,5631,42741,0.1317,0.1911,True
+LT,Share revised at 10 y,30%,6249,42741,0.1462,0.2121,True
+LT,Revisions counted,reoperations,6095,42741,0.1426,0.2069,True
+LT,Revisions counted,patients,5713,42741,0.1337,0.1939,True
+LT,Revision cost,-50%,5592,42741,0.1308,0.1898,True
+LT,Revision cost,+50%,6597,42741,0.1543,0.2239,True
+LT,Time horizon,5 y,5978,30247,0.1976,0.2029,True
+LT,Time horizon,lifetime,6148,44638,0.1377,0.2087,True
+LT,Discount rate (common),0%,6139,47907,0.1282,0.2084,True
+LT,Discount rate (common),5%,6078,40838,0.1488,0.2063,True
+LT,Course after year 1,plateau,6095,29965,0.2034,0.2069,False
+LT,Course after year 1,dementia mix,6095,45624,0.1336,0.2069,False
+LT,mRS 3:4 at diagnosis,1:1,6095,43929,0.1387,0.2069,False
+LT,mRS 3:4 at diagnosis,1:2,6095,45067,0.1352,0.2069,False
+LT,"Mortality HR, untreated",x1.13,6095,69909,0.0872,0.2069,False
+LT,"Mortality HR, untreated",x5.83,6095,20837,0.2925,0.2069,False
+LT,Hourly home-care cost,-25%,6095,36011,0.1692,0.2069,False
+LT,Hourly home-care cost,+25%,6095,49472,0.1232,0.2069,False
+LT,Daily residential cost,-25%,6095,38786,0.1571,0.2069,False
+LT,Daily residential cost,+25%,6095,46696,0.1305,0.2069,False
+LT,Care volumes (Lekander),x0.5,6095,21371,0.2852,0.2069,False
+LT,Care volumes (Lekander),x1.5,6095,64112,0.0951,0.2069,False
+LT,Perspective,public,6095,42741,0.1426,0.2069,False
+LT,Perspective,total,6095,52173,0.1168,0.2069,False
+LT,Threshold (declared range),upper,6095,42741,0.1426,0.0414,lambda
+SI,base,,10222,118671,0.0861,0.3062,
+SI,Insertion DRG,B07B,4198,118671,0.0354,0.1258,True
+SI,Insertion DRG,B02C,10222,118671,0.0861,0.3062,True
+SI,Residential DO payment period,Apr-Jul,10222,118671,0.0861,0.3062,False
+SI,Residential DO payment period,Dec-Jul,10222,124015,0.0824,0.3062,False
+SI,Residential without ZZZS nursing,without,10222,103110,0.0991,0.3062,False
+SI,Residential without ZZZS nursing,with,10222,118671,0.0861,0.3062,False
+SI,Share revised at 10 y,14%,9290,118671,0.0783,0.2783,True
+SI,Share revised at 10 y,30%,10532,118671,0.0887,0.3155,True
+SI,Revisions counted,reoperations,10222,118671,0.0861,0.3062,True
+SI,Revisions counted,patients,9455,118671,0.0797,0.2832,True
+SI,Revision cost,-50%,9212,118671,0.0776,0.276,True
+SI,Revision cost,+50%,11231,118671,0.0946,0.3364,True
+SI,Time horizon,5 y,9958,78597,0.1267,0.2983,True
+SI,Time horizon,lifetime,10356,126216,0.0821,0.3103,True
+SI,Discount rate (common),0%,10336,136887,0.0755,0.3097,True
+SI,Discount rate (common),5%,10197,114781,0.0888,0.3055,True
+SI,Course after year 1,plateau,10222,80892,0.1264,0.3062,False
+SI,Course after year 1,dementia mix,10222,124833,0.0819,0.3062,False
+SI,mRS 3:4 at diagnosis,1:1,10222,120450,0.0849,0.3062,False
+SI,mRS 3:4 at diagnosis,1:2,10222,122112,0.0837,0.3062,False
+SI,"Mortality HR, untreated",x1.13,10222,175053,0.0584,0.3062,False
+SI,"Mortality HR, untreated",x5.83,10222,64104,0.1595,0.3062,False
+SI,Hourly home-care cost,-25%,10222,98336,0.1039,0.3062,False
+SI,Hourly home-care cost,+25%,10222,139006,0.0735,0.3062,False
+SI,Daily residential cost,-25%,10222,109338,0.0935,0.3062,False
+SI,Daily residential cost,+25%,10222,128003,0.0799,0.3062,False
+SI,Care volumes (Lekander),x0.5,10222,63427,0.1612,0.3062,False
+SI,Care volumes (Lekander),x1.5,10222,162595,0.0629,0.3062,False
+SI,Perspective,public,10222,118671,0.0861,0.3062,False
+SI,Perspective,total,10222,139563,0.0732,0.3062,False
+SI,Threshold (declared range),upper,10222,118671,0.0861,0.1021,lambda

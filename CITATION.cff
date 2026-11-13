@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code or these data, please cite the article and this deposit."
+title: "Shunt thresholds in iNPH: model code and outputs"
+type: software
+authors:
+  - family-names: Taddei
+    given-names: Graziano
+    orcid: "https://orcid.org/0000-0002-8395-244X"
+    affiliation: "Department of Neurosurgery, S.M. Goretti Hospital, ASL Latina, Latina, Italy"
+license: MIT
+version: 1.0.0
+date-released: 2026-11-13
+repository-code: "https://github.com/grtad/inph-shunt-thresholds"
+keywords:
+  - normal pressure hydrocephalus
+  - shunt surgery
+  - cost-effectiveness
+  - threshold analysis
+  - long-term care

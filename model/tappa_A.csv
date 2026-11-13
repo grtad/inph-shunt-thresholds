@@ -1,0 +1,43 @@
+stato,valuta,K,K_eur_pps,soglia,lambda_,q_star
+SE,SEK,167554,12475,"classe alta, limite basso",500000,0.335
+SE,SEK,167554,12475,"classe alta, limite alto",1000000,0.168
+DE,EUR,11738,10522,1 x PIL pro capite,54240,0.216
+DE,EUR,11738,10522,3 x PIL pro capite,162720,0.072
+FR,EUR,7732,7262,1 x PIL pro capite,43350,0.178
+FR,EUR,7732,7262,3 x PIL pro capite,130050,0.059
+ES,EUR,16343,18217,limite basso,20000,0.817
+ES,EUR,16343,18217,limite alto,25000,0.654
+PL,PLN,41372,13369,"soglia di legge (3 x PIL pc, GUS 2025)",244821,0.169
+EE,EUR,8212,8941,"Tervisekassa, soglia abituale",20000,0.411
+EE,EUR,8212,8941,"Tervisekassa, limite alto",40000,0.205
+NO,NOK,315787,21264,alternativkostnad,275000,1.148
+NO,NOK,315787,21264,Magnussentrappen APT 5-8 (figura),383000,0.825
+NO,NOK,315787,21264,"Magnussentrappen APT 9-12 (figura, massimo a 75 anni)",493000,0.641
+IE,EUR,21110,17893,"HIQA, riferimento basso",20000,1.056
+IE,EUR,21110,17893,"HIQA, riferimento alto",45000,0.469
+UK,GBP,11223,10549,NICE limite basso,25000,0.449
+UK,GBP,11223,10549,NICE limite alto,35000,0.321
+DK,DKK,187541,19488,1 x PIL pro capite,519080,0.361
+DK,DKK,187541,19488,3 x PIL pro capite,1557240,0.12
+NL,EUR,14507,12364,"ziektelast 0,1-0,4",20000,0.725
+NL,EUR,14507,12364,"ziektelast 0,41-0,7",50000,0.29
+NL,EUR,14507,12364,"ziektelast 0,71-1,0",80000,0.181
+PT,EUR,5163,6151,1 x PIL pro capite,28560,0.181
+PT,EUR,5163,6151,3 x PIL pro capite,85680,0.06
+LV,EUR,4774,6021,"soglia di legge (3 x PIL pc 2025, Eurostat)",70680,0.068
+CZ,CZK,299194,14655,"SUKL, soglia applicata",1200000,0.249
+SK,EUR,10019,12448,2 x PIL pc (di legge),50940,0.197
+SK,EUR,10019,12448,3 x PIL pc (di legge),76410,0.131
+BG,EUR,3323,5213,1 x PIL pro capite,18120,0.183
+BG,EUR,3323,5213,3 x PIL pro capite,54360,0.061
+CH,CHF,23947,16375,1 x PIL pro capite,95380,0.251
+CH,CHF,23947,16375,3 x PIL pro capite,286140,0.084
+AT,EUR,31953,28037,1 x PIL pro capite,56300,0.568
+AT,EUR,31953,28037,3 x PIL pro capite,168900,0.189
+FI,EUR,14656,12368,1 x PIL pro capite,49870,0.294
+FI,EUR,14656,12368,3 x PIL pro capite,149610,0.098
+LT,EUR,6239,7738,1 x PIL pro capite,29460,0.212
+LT,EUR,6239,7738,3 x PIL pro capite,88380,0.071
+LT,EUR,6239,7738,5 x PIL pro capite,147300,0.042
+SI,EUR,10431,11891,1 x PIL pro capite,33380,0.313
+SI,EUR,10431,11891,3 x PIL pro capite,100140,0.104

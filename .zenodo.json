@@ -1,0 +1,11 @@
+{
+  "title": "Shunt thresholds in iNPH: model code and outputs",
+  "description": "Python code and output files of a cost-effectiveness threshold analysis of shunt surgery versus no surgery for idiopathic normal pressure hydrocephalus in 21 European countries: share of the public long-term care expenditure of an untreated patient that the operation must avoid to pay for itself (s_dom = K/L), and QALY gain required when no care is avoided (q* = K/λ). Running the five scripts in the order given in the README reproduces the deposited files.",
+  "upload_type": "software",
+  "creators": [
+    {"name": "Taddei, Graziano", "orcid": "0000-0002-8395-244X", "affiliation": "Department of Neurosurgery, S.M. Goretti Hospital, ASL Latina, Latina, Italy"}
+  ],
+  "license": "MIT",
+  "keywords": ["normal pressure hydrocephalus", "shunt surgery", "cost-effectiveness", "threshold analysis", "long-term care", "Markov model"],
+  "language": "eng"
+}

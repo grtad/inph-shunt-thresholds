@@ -1,0 +1,64 @@
+stato,grandezza,soglia,mediana,p2_5,p97_5
+SE,s_dom,,0.0372,0.0217,0.065
+SE,q_star,"classe alta, limite basso",0.3248,0.2312,0.4396
+SE,q_star,"classe alta, limite alto",0.1624,0.1156,0.2198
+DE,s_dom,,0.0937,0.0626,0.1348
+DE,q_star,1 x PIL pro capite,0.2081,0.1485,0.2809
+DE,q_star,3 x PIL pro capite,0.0694,0.0495,0.0936
+FR,s_dom,,0.0574,0.0327,0.1019
+FR,q_star,1 x PIL pro capite,0.174,0.1209,0.242
+FR,q_star,3 x PIL pro capite,0.058,0.0403,0.0807
+ES,s_dom,,0.2117,0.1227,0.366
+ES,q_star,limite basso,0.7923,0.5663,1.0754
+ES,q_star,limite alto,0.6338,0.453,0.8603
+PL,s_dom,,0.286,0.1696,0.4945
+PL,q_star,"soglia di legge (3 x PIL pc, GUS 2025)",0.1631,0.1161,0.2233
+EE,s_dom,,0.1715,0.0993,0.3038
+EE,q_star,"Tervisekassa, soglia abituale",0.3934,0.2789,0.5348
+EE,q_star,"Tervisekassa, limite alto",0.1967,0.1395,0.2674
+NO,s_dom,,0.0602,0.0349,0.104
+NO,q_star,alternativkostnad,1.1091,0.7929,1.5157
+NO,q_star,Magnussentrappen APT 5-8 (figura),0.7964,0.5693,1.0883
+NO,q_star,"Magnussentrappen APT 9-12 (figura, massimo a 75 anni)",0.6187,0.4423,0.8455
+IE,s_dom,,0.1232,0.0709,0.2168
+IE,q_star,"HIQA, riferimento basso",1.0238,0.7254,1.4112
+IE,q_star,"HIQA, riferimento alto",0.455,0.3224,0.6272
+UK,s_dom,,0.1599,0.0937,0.2756
+UK,q_star,NICE limite basso,0.4327,0.3113,0.5932
+UK,q_star,NICE limite alto,0.3091,0.2223,0.4237
+DK,s_dom,,0.0614,0.0355,0.1058
+DK,q_star,1 x PIL pro capite,0.3491,0.2487,0.4723
+DK,q_star,3 x PIL pro capite,0.1164,0.0829,0.1574
+NL,s_dom,,0.0404,0.0231,0.0706
+NL,q_star,"ziektelast 0,1-0,4",0.7014,0.4949,0.9555
+NL,q_star,"ziektelast 0,41-0,7",0.2806,0.198,0.3822
+NL,q_star,"ziektelast 0,71-1,0",0.1754,0.1237,0.2389
+PT,s_dom,,0.1186,0.0672,0.2084
+PT,q_star,1 x PIL pro capite,0.1757,0.1255,0.2372
+PT,q_star,3 x PIL pro capite,0.0586,0.0418,0.0791
+LV,s_dom,,0.2141,0.1226,0.38
+LV,q_star,"soglia di legge (3 x PIL pc 2025, Eurostat)",0.0648,0.0465,0.0878
+CZ,s_dom,,0.1331,0.0773,0.2314
+CZ,q_star,"SUKL, soglia applicata",0.2395,0.1719,0.324
+SK,s_dom,,0.3127,0.1816,0.5358
+SK,q_star,2 x PIL pc (di legge),0.1903,0.1343,0.2629
+SK,q_star,3 x PIL pc (di legge),0.1268,0.0896,0.1753
+BG,s_dom,,0.1036,0.061,0.1802
+BG,q_star,1 x PIL pro capite,0.1747,0.1252,0.2373
+BG,q_star,3 x PIL pro capite,0.0582,0.0417,0.0791
+CH,s_dom,,0.0538,0.0307,0.0966
+CH,q_star,1 x PIL pro capite,0.2436,0.1744,0.3303
+CH,q_star,3 x PIL pro capite,0.0812,0.0581,0.1101
+AT,s_dom,,0.1574,0.0903,0.2809
+AT,q_star,1 x PIL pro capite,0.553,0.3899,0.7588
+AT,q_star,3 x PIL pro capite,0.1843,0.13,0.2529
+FI,s_dom,,0.0368,0.0211,0.0649
+FI,q_star,1 x PIL pro capite,0.2839,0.2041,0.3841
+FI,q_star,3 x PIL pro capite,0.0946,0.068,0.128
+LT,s_dom,,0.1444,0.0829,0.2547
+LT,q_star,1 x PIL pro capite,0.2059,0.1427,0.2845
+LT,q_star,3 x PIL pro capite,0.0686,0.0476,0.0948
+LT,q_star,5 x PIL pro capite,0.0412,0.0285,0.0569
+SI,s_dom,,0.0876,0.0505,0.1527
+SI,q_star,1 x PIL pro capite,0.3032,0.2151,0.4202
+SI,q_star,3 x PIL pro capite,0.1011,0.0717,0.1401

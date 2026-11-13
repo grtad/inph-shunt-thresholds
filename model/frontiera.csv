@@ -1,0 +1,229 @@
+stato,prospettiva,traiettoria,soglia,lambda_,K,L,s_dom,q_star,anni_vita_scontati,q_rif,s_a_q_rif,s_a_q_0_25,s_a_q_0_5
+SE,pubblica,continua,"classe alta, limite basso",500000,163538,4441916,0.037,0.327,4.98,0.348,-0.002,0.009,-0.019
+SE,pubblica,continua,"classe alta, limite alto",1000000,163538,4441916,0.037,0.164,4.98,0.348,-0.042,-0.019,-0.076
+SE,totale,continua,"classe alta, limite basso",500000,163538,4704826,0.035,0.327,4.98,0.348,-0.002,0.008,-0.018
+SE,totale,continua,"classe alta, limite alto",1000000,163538,4704826,0.035,0.164,4.98,0.348,-0.039,-0.018,-0.072
+SE,pubblica,plateau,"classe alta, limite basso",500000,163538,2927704,0.056,0.327,4.98,0.348,-0.004,0.013,-0.03
+SE,pubblica,plateau,"classe alta, limite alto",1000000,163538,2927704,0.056,0.164,4.98,0.348,-0.063,-0.03,-0.115
+SE,totale,plateau,"classe alta, limite basso",500000,163538,3113372,0.053,0.327,4.98,0.348,-0.003,0.012,-0.028
+SE,totale,plateau,"classe alta, limite alto",1000000,163538,3113372,0.053,0.164,4.98,0.348,-0.059,-0.028,-0.108
+SE,pubblica,demenza,"classe alta, limite basso",500000,163538,4697111,0.035,0.327,4.98,0.348,-0.002,0.008,-0.018
+SE,pubblica,demenza,"classe alta, limite alto",1000000,163538,4697111,0.035,0.164,4.98,0.348,-0.039,-0.018,-0.072
+SE,totale,demenza,"classe alta, limite basso",500000,163538,4983026,0.033,0.327,4.98,0.348,-0.002,0.008,-0.017
+SE,totale,demenza,"classe alta, limite alto",1000000,163538,4983026,0.033,0.164,4.98,0.348,-0.037,-0.017,-0.068
+DE,pubblica,continua,1 x PIL pro capite,54240,11380,121653,0.094,0.21,4.39,0.308,-0.044,-0.018,-0.129
+DE,pubblica,continua,3 x PIL pro capite,162720,11380,121653,0.094,0.07,4.39,0.308,-0.318,-0.241,-0.575
+DE,totale,continua,1 x PIL pro capite,54240,11380,279802,0.041,0.21,4.39,0.308,-0.019,-0.008,-0.056
+DE,totale,continua,3 x PIL pro capite,162720,11380,279802,0.041,0.07,4.39,0.308,-0.138,-0.105,-0.25
+DE,pubblica,plateau,1 x PIL pro capite,54240,11380,78387,0.145,0.21,4.39,0.308,-0.068,-0.028,-0.201
+DE,pubblica,plateau,3 x PIL pro capite,162720,11380,78387,0.145,0.07,4.39,0.308,-0.493,-0.374,-0.893
+DE,totale,plateau,1 x PIL pro capite,54240,11380,192682,0.059,0.21,4.39,0.308,-0.027,-0.011,-0.082
+DE,totale,plateau,3 x PIL pro capite,162720,11380,192682,0.059,0.07,4.39,0.308,-0.201,-0.152,-0.363
+DE,pubblica,demenza,1 x PIL pro capite,54240,11380,123340,0.092,0.21,4.39,0.308,-0.043,-0.018,-0.128
+DE,pubblica,demenza,3 x PIL pro capite,162720,11380,123340,0.092,0.07,4.39,0.308,-0.313,-0.238,-0.567
+DE,totale,demenza,1 x PIL pro capite,54240,11380,299186,0.038,0.21,4.39,0.308,-0.018,-0.007,-0.053
+DE,totale,demenza,3 x PIL pro capite,162720,11380,299186,0.038,0.07,4.39,0.308,-0.129,-0.098,-0.234
+FR,pubblica,continua,1 x PIL pro capite,43350,7638,133978,0.057,0.176,5.21,0.365,-0.061,-0.024,-0.105
+FR,pubblica,continua,3 x PIL pro capite,130050,7638,133978,0.057,0.059,5.21,0.365,-0.297,-0.186,-0.428
+FR,totale,continua,1 x PIL pro capite,43350,7638,171760,0.044,0.176,5.21,0.365,-0.048,-0.019,-0.082
+FR,totale,continua,3 x PIL pro capite,130050,7638,171760,0.044,0.059,5.21,0.365,-0.232,-0.145,-0.334
+FR,pubblica,plateau,1 x PIL pro capite,43350,7638,86560,0.088,0.176,5.21,0.365,-0.094,-0.037,-0.162
+FR,pubblica,plateau,3 x PIL pro capite,130050,7638,86560,0.088,0.059,5.21,0.365,-0.46,-0.287,-0.663
+FR,totale,plateau,1 x PIL pro capite,43350,7638,105351,0.072,0.176,5.21,0.365,-0.078,-0.03,-0.133
+FR,totale,plateau,3 x PIL pro capite,130050,7638,105351,0.072,0.059,5.21,0.365,-0.378,-0.236,-0.545
+FR,pubblica,demenza,1 x PIL pro capite,43350,7638,140768,0.054,0.176,5.21,0.365,-0.058,-0.023,-0.1
+FR,pubblica,demenza,3 x PIL pro capite,130050,7638,140768,0.054,0.059,5.21,0.365,-0.283,-0.177,-0.408
+FR,totale,demenza,1 x PIL pro capite,43350,7638,176740,0.043,0.176,5.21,0.365,-0.046,-0.018,-0.079
+FR,totale,demenza,3 x PIL pro capite,130050,7638,176740,0.043,0.059,5.21,0.365,-0.225,-0.141,-0.325
+ES,pubblica,continua,limite basso,20000,15962,76860,0.208,0.798,5.11,0.357,0.115,0.143,0.078
+ES,pubblica,continua,limite alto,25000,15962,76860,0.208,0.638,5.11,0.357,0.091,0.126,0.045
+ES,totale,continua,limite basso,20000,15962,98964,0.161,0.798,5.11,0.357,0.089,0.111,0.06
+ES,totale,continua,limite alto,25000,15962,98964,0.161,0.638,5.11,0.357,0.071,0.098,0.035
+ES,pubblica,plateau,limite basso,20000,15962,51871,0.308,0.798,5.11,0.357,0.17,0.211,0.115
+ES,pubblica,plateau,limite alto,25000,15962,51871,0.308,0.638,5.11,0.357,0.135,0.187,0.067
+ES,totale,plateau,limite basso,20000,15962,64004,0.249,0.798,5.11,0.357,0.138,0.171,0.093
+ES,totale,plateau,limite alto,25000,15962,64004,0.249,0.638,5.11,0.357,0.11,0.152,0.054
+ES,pubblica,demenza,limite basso,20000,15962,82140,0.194,0.798,5.11,0.357,0.107,0.133,0.073
+ES,pubblica,demenza,limite alto,25000,15962,82140,0.194,0.638,5.11,0.357,0.086,0.118,0.042
+ES,totale,demenza,limite basso,20000,15962,103941,0.154,0.798,5.11,0.357,0.085,0.105,0.057
+ES,totale,demenza,limite alto,25000,15962,103941,0.154,0.638,5.11,0.357,0.068,0.093,0.033
+PL,pubblica,continua,"soglia di legge (3 x PIL pc, GUS 2025)",244821,40360,142050,0.284,0.165,3.84,0.269,-0.18,-0.147,-0.578
+PL,pubblica,plateau,"soglia di legge (3 x PIL pc, GUS 2025)",244821,40360,95983,0.42,0.165,3.84,0.269,-0.266,-0.217,-0.855
+PL,pubblica,demenza,"soglia di legge (3 x PIL pc, GUS 2025)",244821,40360,149619,0.27,0.165,3.84,0.269,-0.17,-0.139,-0.548
+EE,pubblica,continua,"Tervisekassa, soglia abituale",20000,7934,46687,0.17,0.397,3.88,0.272,0.053,0.063,-0.044
+EE,pubblica,continua,"Tervisekassa, limite alto",40000,7934,46687,0.17,0.198,3.88,0.272,-0.063,-0.044,-0.258
+EE,totale,continua,"Tervisekassa, soglia abituale",20000,7934,62792,0.126,0.397,3.88,0.272,0.04,0.047,-0.033
+EE,totale,continua,"Tervisekassa, limite alto",40000,7934,62792,0.126,0.198,3.88,0.272,-0.047,-0.033,-0.192
+EE,pubblica,plateau,"Tervisekassa, soglia abituale",20000,7934,34324,0.231,0.397,3.88,0.272,0.073,0.085,-0.06
+EE,pubblica,plateau,"Tervisekassa, limite alto",40000,7934,34324,0.231,0.198,3.88,0.272,-0.086,-0.06,-0.352
+EE,totale,plateau,"Tervisekassa, soglia abituale",20000,7934,44515,0.178,0.397,3.88,0.272,0.056,0.066,-0.046
+EE,totale,plateau,"Tervisekassa, limite alto",40000,7934,44515,0.178,0.198,3.88,0.272,-0.066,-0.046,-0.271
+EE,pubblica,demenza,"Tervisekassa, soglia abituale",20000,7934,50836,0.156,0.397,3.88,0.272,0.049,0.058,-0.041
+EE,pubblica,demenza,"Tervisekassa, limite alto",40000,7934,50836,0.156,0.198,3.88,0.272,-0.058,-0.041,-0.237
+EE,totale,demenza,"Tervisekassa, soglia abituale",20000,7934,67454,0.118,0.397,3.88,0.272,0.037,0.043,-0.031
+EE,totale,demenza,"Tervisekassa, limite alto",40000,7934,67454,0.118,0.198,3.88,0.272,-0.044,-0.031,-0.179
+NO,pubblica,continua,alternativkostnad,275000,308187,5187845,0.059,1.121,4.67,0.327,0.042,0.046,0.033
+NO,pubblica,continua,Magnussentrappen APT 5-8 (figura),383000,308187,5187845,0.059,0.805,4.67,0.327,0.035,0.041,0.022
+NO,pubblica,continua,"Magnussentrappen APT 9-12 (figura, massimo a 75 anni)",493000,308187,5187845,0.059,0.625,4.67,0.327,0.028,0.036,0.012
+NO,totale,continua,alternativkostnad,275000,308187,5566065,0.055,1.121,4.67,0.327,0.039,0.043,0.031
+NO,totale,continua,Magnussentrappen APT 5-8 (figura),383000,308187,5566065,0.055,0.805,4.67,0.327,0.033,0.038,0.021
+NO,totale,continua,"Magnussentrappen APT 9-12 (figura, massimo a 75 anni)",493000,308187,5566065,0.055,0.625,4.67,0.327,0.026,0.033,0.011
+NO,pubblica,plateau,alternativkostnad,275000,308187,3268965,0.094,1.121,4.67,0.327,0.067,0.073,0.052
+NO,pubblica,plateau,Magnussentrappen APT 5-8 (figura),383000,308187,3268965,0.094,0.805,4.67,0.327,0.056,0.065,0.036
+NO,pubblica,plateau,"Magnussentrappen APT 9-12 (figura, massimo a 75 anni)",493000,308187,3268965,0.094,0.625,4.67,0.327,0.045,0.057,0.019
+NO,totale,plateau,alternativkostnad,275000,308187,3457625,0.089,1.121,4.67,0.327,0.063,0.069,0.049
+NO,totale,plateau,Magnussentrappen APT 5-8 (figura),383000,308187,3457625,0.089,0.805,4.67,0.327,0.053,0.061,0.034
+NO,totale,plateau,"Magnussentrappen APT 9-12 (figura, massimo a 75 anni)",493000,308187,3457625,0.089,0.625,4.67,0.327,0.042,0.053,0.018
+NO,pubblica,demenza,alternativkostnad,275000,308187,5378102,0.057,1.121,4.67,0.327,0.041,0.045,0.032
+NO,pubblica,demenza,Magnussentrappen APT 5-8 (figura),383000,308187,5378102,0.057,0.805,4.67,0.327,0.034,0.04,0.022
+NO,pubblica,demenza,"Magnussentrappen APT 9-12 (figura, massimo a 75 anni)",493000,308187,5378102,0.057,0.625,4.67,0.327,0.027,0.034,0.011
+NO,totale,demenza,alternativkostnad,275000,308187,5739751,0.054,1.121,4.67,0.327,0.038,0.042,0.03
+NO,totale,demenza,Magnussentrappen APT 5-8 (figura),383000,308187,5739751,0.054,0.805,4.67,0.327,0.032,0.037,0.02
+NO,totale,demenza,"Magnussentrappen APT 9-12 (figura, massimo a 75 anni)",493000,308187,5739751,0.054,0.625,4.67,0.327,0.026,0.032,0.011
+IE,pubblica,continua,"HIQA, riferimento basso",20000,20724,169907,0.122,1.036,4.7,0.329,0.083,0.093,0.063
+IE,pubblica,continua,"HIQA, riferimento alto",45000,20724,169907,0.122,0.461,4.7,0.329,0.035,0.056,-0.01
+IE,totale,continua,"HIQA, riferimento basso",20000,20724,202485,0.102,1.036,4.7,0.329,0.07,0.078,0.053
+IE,totale,continua,"HIQA, riferimento alto",45000,20724,202485,0.102,0.461,4.7,0.329,0.029,0.047,-0.009
+IE,pubblica,plateau,"HIQA, riferimento basso",20000,20724,111152,0.186,1.036,4.7,0.329,0.127,0.141,0.096
+IE,pubblica,plateau,"HIQA, riferimento alto",45000,20724,111152,0.186,0.461,4.7,0.329,0.053,0.085,-0.016
+IE,totale,plateau,"HIQA, riferimento basso",20000,20724,126875,0.163,1.036,4.7,0.329,0.111,0.124,0.085
+IE,totale,plateau,"HIQA, riferimento alto",45000,20724,126875,0.163,0.461,4.7,0.329,0.047,0.075,-0.014
+IE,pubblica,demenza,"HIQA, riferimento basso",20000,20724,178672,0.116,1.036,4.7,0.329,0.079,0.088,0.06
+IE,pubblica,demenza,"HIQA, riferimento alto",45000,20724,178672,0.116,0.461,4.7,0.329,0.033,0.053,-0.01
+IE,totale,demenza,"HIQA, riferimento basso",20000,20724,209506,0.099,1.036,4.7,0.329,0.068,0.075,0.051
+IE,totale,demenza,"HIQA, riferimento alto",45000,20724,209506,0.099,0.461,4.7,0.329,0.028,0.045,-0.008
+UK,pubblica,continua,NICE limite basso,25000,10920,69369,0.157,0.437,4.5,0.315,0.044,0.067,-0.023
+UK,pubblica,continua,NICE limite alto,35000,10920,69369,0.157,0.312,4.5,0.315,-0.001,0.031,-0.095
+UK,totale,continua,NICE limite basso,25000,10920,153874,0.071,0.437,4.5,0.315,0.02,0.03,-0.01
+UK,totale,continua,NICE limite alto,35000,10920,153874,0.071,0.312,4.5,0.315,-0.001,0.014,-0.043
+UK,pubblica,plateau,NICE limite basso,25000,10920,45346,0.241,0.437,4.5,0.315,0.067,0.103,-0.035
+UK,pubblica,plateau,NICE limite alto,35000,10920,45346,0.241,0.312,4.5,0.315,-0.002,0.048,-0.145
+UK,totale,plateau,NICE limite basso,25000,10920,96106,0.114,0.437,4.5,0.315,0.032,0.049,-0.016
+UK,totale,plateau,NICE limite alto,35000,10920,96106,0.114,0.312,4.5,0.315,-0.001,0.023,-0.068
+UK,pubblica,demenza,NICE limite basso,25000,10920,72821,0.15,0.437,4.5,0.315,0.042,0.064,-0.022
+UK,pubblica,demenza,NICE limite alto,35000,10920,72821,0.15,0.312,4.5,0.315,-0.001,0.03,-0.09
+UK,totale,demenza,NICE limite basso,25000,10920,158862,0.069,0.437,4.5,0.315,0.019,0.029,-0.01
+UK,totale,demenza,NICE limite alto,35000,10920,158862,0.069,0.312,4.5,0.315,-0.001,0.014,-0.041
+DK,pubblica,continua,1 x PIL pro capite,519080,182422,3014342,0.061,0.351,4.47,0.313,0.007,0.017,-0.026
+DK,pubblica,continua,3 x PIL pro capite,1557240,182422,3014342,0.061,0.117,4.47,0.313,-0.101,-0.069,-0.198
+DK,totale,continua,1 x PIL pro capite,519080,182422,3140533,0.058,0.351,4.47,0.313,0.006,0.017,-0.025
+DK,totale,continua,3 x PIL pro capite,1557240,182422,3140533,0.058,0.117,4.47,0.313,-0.097,-0.066,-0.19
+DK,pubblica,plateau,1 x PIL pro capite,519080,182422,2094304,0.087,0.351,4.47,0.313,0.01,0.025,-0.037
+DK,pubblica,plateau,3 x PIL pro capite,1557240,182422,2094304,0.087,0.117,4.47,0.313,-0.145,-0.099,-0.285
+DK,totale,plateau,1 x PIL pro capite,519080,182422,2174333,0.084,0.351,4.47,0.313,0.009,0.024,-0.035
+DK,totale,plateau,3 x PIL pro capite,1557240,182422,2174333,0.084,0.117,4.47,0.313,-0.14,-0.095,-0.274
+DK,pubblica,demenza,1 x PIL pro capite,519080,182422,3236966,0.056,0.351,4.47,0.313,0.006,0.016,-0.024
+DK,pubblica,demenza,3 x PIL pro capite,1557240,182422,3236966,0.056,0.117,4.47,0.313,-0.094,-0.064,-0.184
+DK,totale,demenza,1 x PIL pro capite,519080,182422,3367923,0.054,0.351,4.47,0.313,0.006,0.016,-0.023
+DK,totale,demenza,3 x PIL pro capite,1557240,182422,3367923,0.054,0.117,4.47,0.313,-0.09,-0.061,-0.177
+NL,pubblica,continua,"ziektelast 0,1-0,4",20000,14124,354900,0.04,0.706,4.73,0.331,0.021,0.026,0.012
+NL,pubblica,continua,"ziektelast 0,41-0,7",50000,14124,354900,0.04,0.282,4.73,0.331,-0.007,0.005,-0.031
+NL,pubblica,continua,"ziektelast 0,71-1,0",80000,14124,354900,0.04,0.177,4.73,0.331,-0.035,-0.017,-0.073
+NL,totale,continua,"ziektelast 0,1-0,4",20000,14124,375776,0.038,0.706,4.73,0.331,0.02,0.024,0.011
+NL,totale,continua,"ziektelast 0,41-0,7",50000,14124,375776,0.038,0.282,4.73,0.331,-0.006,0.004,-0.029
+NL,totale,continua,"ziektelast 0,71-1,0",80000,14124,375776,0.038,0.177,4.73,0.331,-0.033,-0.016,-0.069
+NL,pubblica,plateau,"ziektelast 0,1-0,4",20000,14124,230492,0.061,0.706,4.73,0.331,0.033,0.04,0.018
+NL,pubblica,plateau,"ziektelast 0,41-0,7",50000,14124,230492,0.061,0.282,4.73,0.331,-0.01,0.007,-0.047
+NL,pubblica,plateau,"ziektelast 0,71-1,0",80000,14124,230492,0.061,0.177,4.73,0.331,-0.054,-0.025,-0.112
+NL,totale,plateau,"ziektelast 0,1-0,4",20000,14124,241656,0.058,0.706,4.73,0.331,0.031,0.038,0.017
+NL,totale,plateau,"ziektelast 0,41-0,7",50000,14124,241656,0.058,0.282,4.73,0.331,-0.01,0.007,-0.045
+NL,totale,plateau,"ziektelast 0,71-1,0",80000,14124,241656,0.058,0.177,4.73,0.331,-0.051,-0.024,-0.107
+NL,pubblica,demenza,"ziektelast 0,1-0,4",20000,14124,371801,0.038,0.706,4.73,0.331,0.02,0.025,0.011
+NL,pubblica,demenza,"ziektelast 0,41-0,7",50000,14124,371801,0.038,0.282,4.73,0.331,-0.007,0.004,-0.029
+NL,pubblica,demenza,"ziektelast 0,71-1,0",80000,14124,371801,0.038,0.177,4.73,0.331,-0.033,-0.016,-0.07
+NL,totale,demenza,"ziektelast 0,1-0,4",20000,14124,392240,0.036,0.706,4.73,0.331,0.019,0.023,0.011
+NL,totale,demenza,"ziektelast 0,41-0,7",50000,14124,392240,0.036,0.282,4.73,0.331,-0.006,0.004,-0.028
+NL,totale,demenza,"ziektelast 0,71-1,0",80000,14124,392240,0.036,0.177,4.73,0.331,-0.031,-0.015,-0.066
+PT,pubblica,continua,1 x PIL pro capite,28560,5043,43434,0.116,0.177,4.81,0.337,-0.105,-0.048,-0.213
+PT,pubblica,continua,3 x PIL pro capite,85680,5043,43434,0.116,0.059,4.81,0.337,-0.548,-0.377,-0.87
+PT,pubblica,plateau,1 x PIL pro capite,28560,5043,30363,0.166,0.177,4.81,0.337,-0.151,-0.069,-0.304
+PT,pubblica,plateau,3 x PIL pro capite,85680,5043,30363,0.166,0.059,4.81,0.337,-0.784,-0.539,-1.245
+PT,pubblica,demenza,1 x PIL pro capite,28560,5043,46936,0.107,0.177,4.81,0.337,-0.097,-0.045,-0.197
+PT,pubblica,demenza,3 x PIL pro capite,85680,5043,46936,0.107,0.059,4.81,0.337,-0.507,-0.349,-0.805
+LV,pubblica,continua,"soglia di legge (3 x PIL pc 2025, Eurostat)",70680,4609,21906,0.21,0.065,3.45,0.241,-0.569,-0.596,-1.403
+LV,pubblica,plateau,"soglia di legge (3 x PIL pc 2025, Eurostat)",70680,4609,16440,0.28,0.065,3.45,0.241,-0.758,-0.795,-1.869
+LV,pubblica,demenza,"soglia di legge (3 x PIL pc 2025, Eurostat)",70680,4609,23810,0.194,0.065,3.45,0.241,-0.523,-0.549,-1.291
+CZ,pubblica,continua,"SUKL, soglia applicata",1200000,289168,2196948,0.132,0.241,4.03,0.282,-0.023,-0.005,-0.141
+CZ,totale,continua,"SUKL, soglia applicata",1200000,289168,2853437,0.101,0.241,4.03,0.282,-0.017,-0.004,-0.109
+CZ,pubblica,plateau,"SUKL, soglia applicata",1200000,289168,1572546,0.184,0.241,4.03,0.282,-0.031,-0.007,-0.198
+CZ,totale,plateau,"SUKL, soglia applicata",1200000,289168,2024438,0.143,0.241,4.03,0.282,-0.024,-0.005,-0.154
+CZ,pubblica,demenza,"SUKL, soglia applicata",1200000,289168,2372116,0.122,0.241,4.03,0.282,-0.021,-0.005,-0.131
+CZ,totale,demenza,"SUKL, soglia applicata",1200000,289168,3070940,0.094,0.241,4.03,0.282,-0.016,-0.004,-0.101
+SK,pubblica,continua,2 x PIL pc (di legge),50940,9787,31644,0.309,0.192,3.6,0.252,-0.097,-0.093,-0.496
+SK,pubblica,continua,3 x PIL pc (di legge),76410,9787,31644,0.309,0.128,3.6,0.252,-0.299,-0.294,-0.898
+SK,totale,continua,2 x PIL pc (di legge),50940,9787,42073,0.233,0.192,3.6,0.252,-0.073,-0.07,-0.373
+SK,totale,continua,3 x PIL pc (di legge),76410,9787,42073,0.233,0.128,3.6,0.252,-0.225,-0.221,-0.675
+SK,pubblica,plateau,2 x PIL pc (di legge),50940,9787,22517,0.435,0.192,3.6,0.252,-0.136,-0.131,-0.697
+SK,pubblica,plateau,3 x PIL pc (di legge),76410,9787,22517,0.435,0.128,3.6,0.252,-0.421,-0.414,-1.262
+SK,totale,plateau,2 x PIL pc (di legge),50940,9787,29082,0.337,0.192,3.6,0.252,-0.105,-0.101,-0.539
+SK,totale,plateau,3 x PIL pc (di legge),76410,9787,29082,0.337,0.128,3.6,0.252,-0.326,-0.32,-0.977
+SK,pubblica,demenza,2 x PIL pc (di legge),50940,9787,33873,0.289,0.192,3.6,0.252,-0.09,-0.087,-0.463
+SK,pubblica,demenza,3 x PIL pc (di legge),76410,9787,33873,0.289,0.128,3.6,0.252,-0.28,-0.275,-0.839
+SK,totale,demenza,2 x PIL pc (di legge),50940,9787,44604,0.219,0.192,3.6,0.252,-0.068,-0.066,-0.352
+SK,totale,demenza,3 x PIL pc (di legge),76410,9787,44604,0.219,0.128,3.6,0.252,-0.212,-0.209,-0.637
+BG,pubblica,continua,1 x PIL pro capite,18120,3193,31114,0.103,0.176,3.41,0.239,-0.036,-0.043,-0.189
+BG,pubblica,continua,3 x PIL pro capite,54360,3193,31114,0.103,0.059,3.41,0.239,-0.314,-0.334,-0.771
+BG,pubblica,plateau,1 x PIL pro capite,18120,3193,22365,0.143,0.176,3.41,0.239,-0.05,-0.06,-0.262
+BG,pubblica,plateau,3 x PIL pro capite,54360,3193,22365,0.143,0.059,3.41,0.239,-0.437,-0.465,-1.073
+BG,pubblica,demenza,1 x PIL pro capite,18120,3193,33328,0.096,0.176,3.41,0.239,-0.034,-0.04,-0.176
+BG,pubblica,demenza,3 x PIL pro capite,54360,3193,33328,0.096,0.059,3.41,0.239,-0.293,-0.312,-0.72
+CH,pubblica,continua,1 x PIL pro capite,95380,23402,443707,0.053,0.245,5.13,0.359,-0.024,-0.001,-0.055
+CH,pubblica,continua,3 x PIL pro capite,286140,23402,443707,0.053,0.082,5.13,0.359,-0.179,-0.108,-0.27
+CH,totale,continua,1 x PIL pro capite,95380,23402,600750,0.039,0.245,5.13,0.359,-0.018,-0.001,-0.04
+CH,totale,continua,3 x PIL pro capite,286140,23402,600750,0.039,0.082,5.13,0.359,-0.132,-0.08,-0.199
+CH,pubblica,plateau,1 x PIL pro capite,95380,23402,318499,0.073,0.245,5.13,0.359,-0.034,-0.001,-0.076
+CH,pubblica,plateau,3 x PIL pro capite,286140,23402,318499,0.073,0.082,5.13,0.359,-0.249,-0.151,-0.376
+CH,totale,plateau,1 x PIL pro capite,95380,23402,397251,0.059,0.245,5.13,0.359,-0.027,-0.001,-0.061
+CH,totale,plateau,3 x PIL pro capite,286140,23402,397251,0.059,0.082,5.13,0.359,-0.2,-0.121,-0.301
+CH,pubblica,demenza,1 x PIL pro capite,95380,23402,486786,0.048,0.245,5.13,0.359,-0.022,-0.001,-0.05
+CH,pubblica,demenza,3 x PIL pro capite,286140,23402,486786,0.048,0.082,5.13,0.359,-0.163,-0.099,-0.246
+CH,totale,demenza,1 x PIL pro capite,95380,23402,636894,0.037,0.245,5.13,0.359,-0.017,-0.001,-0.038
+CH,totale,demenza,3 x PIL pro capite,286140,23402,636894,0.037,0.082,5.13,0.359,-0.124,-0.076,-0.188
+AT,pubblica,continua,1 x PIL pro capite,56300,31395,201546,0.156,0.558,4.56,0.319,0.067,0.086,0.016
+AT,pubblica,continua,3 x PIL pro capite,168900,31395,201546,0.156,0.186,4.56,0.319,-0.111,-0.054,-0.263
+AT,pubblica,plateau,1 x PIL pro capite,56300,31395,139536,0.225,0.558,4.56,0.319,0.096,0.124,0.023
+AT,pubblica,plateau,3 x PIL pro capite,168900,31395,139536,0.225,0.186,4.56,0.319,-0.161,-0.078,-0.38
+AT,pubblica,demenza,1 x PIL pro capite,56300,31395,216374,0.145,0.558,4.56,0.319,0.062,0.08,0.015
+AT,pubblica,demenza,3 x PIL pro capite,168900,31395,216374,0.145,0.186,4.56,0.319,-0.104,-0.05,-0.245
+FI,pubblica,continua,1 x PIL pro capite,49870,14259,394689,0.036,0.286,4.65,0.326,-0.005,0.005,-0.027
+FI,pubblica,continua,3 x PIL pro capite,149610,14259,394689,0.036,0.095,4.65,0.326,-0.087,-0.059,-0.153
+FI,totale,continua,1 x PIL pro capite,49870,14259,486642,0.029,0.286,4.65,0.326,-0.004,0.004,-0.022
+FI,totale,continua,3 x PIL pro capite,149610,14259,486642,0.029,0.095,4.65,0.326,-0.071,-0.048,-0.124
+FI,pubblica,plateau,1 x PIL pro capite,49870,14259,285962,0.05,0.286,4.65,0.326,-0.007,0.006,-0.037
+FI,pubblica,plateau,3 x PIL pro capite,149610,14259,285962,0.05,0.095,4.65,0.326,-0.12,-0.081,-0.212
+FI,totale,plateau,1 x PIL pro capite,49870,14259,351297,0.041,0.286,4.65,0.326,-0.006,0.005,-0.03
+FI,totale,plateau,3 x PIL pro capite,149610,14259,351297,0.041,0.095,4.65,0.326,-0.098,-0.066,-0.172
+FI,pubblica,demenza,1 x PIL pro capite,49870,14259,431944,0.033,0.286,4.65,0.326,-0.005,0.004,-0.025
+FI,pubblica,demenza,3 x PIL pro capite,149610,14259,431944,0.033,0.095,4.65,0.326,-0.08,-0.054,-0.14
+FI,totale,demenza,1 x PIL pro capite,49870,14259,531785,0.027,0.286,4.65,0.326,-0.004,0.003,-0.02
+FI,totale,demenza,3 x PIL pro capite,149610,14259,531785,0.027,0.095,4.65,0.326,-0.065,-0.044,-0.114
+LT,pubblica,continua,1 x PIL pro capite,29460,6095,42741,0.143,0.207,3.75,0.263,-0.038,-0.03,-0.202
+LT,pubblica,continua,3 x PIL pro capite,88380,6095,42741,0.143,0.069,3.75,0.263,-0.4,-0.374,-0.891
+LT,pubblica,continua,5 x PIL pro capite,147300,6095,42741,0.143,0.041,3.75,0.263,-0.762,-0.719,-1.581
+LT,totale,continua,1 x PIL pro capite,29460,6095,52173,0.117,0.207,3.75,0.263,-0.031,-0.024,-0.166
+LT,totale,continua,3 x PIL pro capite,88380,6095,52173,0.117,0.069,3.75,0.263,-0.328,-0.307,-0.73
+LT,totale,continua,5 x PIL pro capite,147300,6095,52173,0.117,0.041,3.75,0.263,-0.625,-0.589,-1.295
+LT,pubblica,plateau,1 x PIL pro capite,29460,6095,29965,0.203,0.207,3.75,0.263,-0.055,-0.042,-0.288
+LT,pubblica,plateau,3 x PIL pro capite,88380,6095,29965,0.203,0.069,3.75,0.263,-0.571,-0.534,-1.271
+LT,pubblica,plateau,5 x PIL pro capite,147300,6095,29965,0.203,0.041,3.75,0.263,-1.087,-1.026,-2.255
+LT,totale,plateau,1 x PIL pro capite,29460,6095,34807,0.175,0.207,3.75,0.263,-0.047,-0.036,-0.248
+LT,totale,plateau,3 x PIL pro capite,88380,6095,34807,0.175,0.069,3.75,0.263,-0.492,-0.46,-1.094
+LT,totale,plateau,5 x PIL pro capite,147300,6095,34807,0.175,0.041,3.75,0.263,-0.936,-0.883,-1.941
+LT,pubblica,demenza,1 x PIL pro capite,29460,6095,45624,0.134,0.207,3.75,0.263,-0.036,-0.028,-0.189
+LT,pubblica,demenza,3 x PIL pro capite,88380,6095,45624,0.134,0.069,3.75,0.263,-0.375,-0.351,-0.835
+LT,pubblica,demenza,5 x PIL pro capite,147300,6095,45624,0.134,0.041,3.75,0.263,-0.714,-0.674,-1.481
+LT,totale,demenza,1 x PIL pro capite,29460,6095,54732,0.111,0.207,3.75,0.263,-0.03,-0.023,-0.158
+LT,totale,demenza,3 x PIL pro capite,88380,6095,54732,0.111,0.069,3.75,0.263,-0.313,-0.292,-0.696
+LT,totale,demenza,5 x PIL pro capite,147300,6095,54732,0.111,0.041,3.75,0.263,-0.595,-0.561,-1.234
+SI,pubblica,continua,1 x PIL pro capite,33380,10222,118671,0.086,0.306,4.47,0.313,-0.002,0.016,-0.055
+SI,pubblica,continua,3 x PIL pro capite,100140,10222,118671,0.086,0.102,4.47,0.313,-0.178,-0.125,-0.336
+SI,totale,continua,1 x PIL pro capite,33380,10222,139563,0.073,0.306,4.47,0.313,-0.002,0.013,-0.046
+SI,totale,continua,3 x PIL pro capite,100140,10222,139563,0.073,0.102,4.47,0.313,-0.151,-0.106,-0.286
+SI,pubblica,plateau,1 x PIL pro capite,33380,10222,80892,0.126,0.306,4.47,0.313,-0.003,0.023,-0.08
+SI,pubblica,plateau,3 x PIL pro capite,100140,10222,80892,0.126,0.102,4.47,0.313,-0.261,-0.183,-0.493
+SI,totale,plateau,1 x PIL pro capite,33380,10222,95692,0.107,0.306,4.47,0.313,-0.002,0.02,-0.068
+SI,totale,plateau,3 x PIL pro capite,100140,10222,95692,0.107,0.102,4.47,0.313,-0.221,-0.155,-0.416
+SI,pubblica,demenza,1 x PIL pro capite,33380,10222,124833,0.082,0.306,4.47,0.313,-0.002,0.015,-0.052
+SI,pubblica,demenza,3 x PIL pro capite,100140,10222,124833,0.082,0.102,4.47,0.313,-0.169,-0.119,-0.319
+SI,totale,demenza,1 x PIL pro capite,33380,10222,149136,0.069,0.306,4.47,0.313,-0.002,0.013,-0.043
+SI,totale,demenza,3 x PIL pro capite,100140,10222,149136,0.069,0.102,4.47,0.313,-0.142,-0.099,-0.267
